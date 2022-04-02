@@ -4,13 +4,13 @@ We construct a new multi-spectral dataset for infrared and visible image fusion 
 
 
 Some typical examples are shown below(the left column are Vis images and the right column are IR images):
-<img  src="./test/vi/00537D.png"  width="320"  height="240"/>  <img  src="./test/ir/00537D.png"  width="320"  height="240"/>
+<img  src="./test/vi/00537D.png"  width="480"  height="360"/>  <img  src="./test/ir/00537D.png"  width="480"  height="360"/>
 
-<img  src="./train/vi/00633D.png"  width="320"  height="240"/>  <img  src="./train/ir/00633D.png"  width="320"  height="240"/>
+<img  src="./train/vi/00633D.png"  width="480"  height="360"/>  <img  src="./train/ir/00633D.png"  width="480"  height="360"/>
 
-<img  src="./main/train/vi/00881N.png"  width="320"  height="240"/>  <img  src="./train/ir/00881N.png"  width="320"  height="240"/>
+<img  src="./train/vi/00881N.png"  width="480"  height="360"/>  <img  src="./train/ir/00881N.png"  width="480"  height="360"/>
 
-<img  src="./train/vi/01023N.png"  width="320"  height="240"/>  <img  src="./train/ir/01023N.png"  width="320"  height="240"/>
+<img  src="./train/vi/01023N.png"  width="480"  height="360"/>  <img  src="./train/ir/01023N.png"  width="480"  height="360"/>
 
   
 
