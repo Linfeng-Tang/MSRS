@@ -4,13 +4,13 @@ We construct a new multi-spectral dataset for infrared and visible image fusion 
 
 
 Some typical examples are shown below(the left column are Vis images and the right column are IR images):<br>
-<img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/test/vi/00537D.png"  width="400"  height="220"/>  <img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/test/ir/00537D.png"  width="400"  height="220"/>
+<img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/test/vi/00537D.png"  width="400"  height="220"/>  <img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/test/ir/00537D.png"  width="640"  height="480"/>
 
-<img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/vi/00633D.png"  width="400"  height="220"/>  <img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/ir/00633D.png"  width="400"  height="220"/>
+<img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/vi/00633D.png"  width="400"  height="220"/>  <img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/ir/00633D.png"  width="640"  height="480"/>
 
-<img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/vi/00881N.png"  width="400"  height="220"/>  <img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/ir/00881N.png"  width="400"  height="220"/>
+<img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/vi/00881N.png"  width="400"  height="220"/>  <img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/ir/00881N.png"  width="640"  height="480"/>
 
-<img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/vi/01023N.png"  width="400"  height="220"/>  <img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/ir/01023N.png"  width="400"  height="220"/>
+<img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/vi/01023N.png"  width="400"  height="220"/>  <img  src="https://github.com/Linfeng-Tang/MSRS/tree/main/train/ir/01023N.png"  width="640"  height="480"/>
 
   
 
