@@ -25,3 +25,42 @@ If this dataset is helpful to you, please cite it as:
   publisher={Elsevier}
 }
 ```
+
+```
+@article{TangSeAFusion,
+title = {Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network},
+author = {Linfeng Tang and Jiteng Yuan and Jiayi Ma},
+journal = {Information Fusion},
+volume = {82},
+pages = {28-42},
+year = {2022},
+issn = {1566-2535},
+publisher={Elsevier}
+}
+```
+
+```
+@article{Tang2022SuperFusion,
+  title={SuperFusion: A versatile image registration and fusion network with semantic awareness},
+  author={Tang, Linfeng and Deng, Yuxin and Ma, Yong and Huang, Jun and Ma, Jiayi},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={9},
+  number={12},
+  pages={2121--2137},
+  year={2022},
+  publisher={IEEE}
+}
+```
+```
+@article{Ma2022SwinFusion,
+  title={SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer},
+  author={Ma, Jiayi and Tang, Linfeng and Fan, Fan and Huang, Jun and Mei, Xiaoguang and Ma, Yong},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={9},
+  number={7},
+  pages={1200--1217},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
