@@ -36,7 +36,7 @@ def visualize(save_name, label):
     palette = get_palette()
     pred = label
     img = np.zeros((pred.shape[0], pred.shape[1], 3), dtype=np.uint8)
-    for cid in range(1, int(label.max())):
+    for cid in range(1, int(label.max()+1)):
         img[pred == cid] = palette[cid]
     img = Image.fromarray(np.uint8(img))
     img.save(save_name)
