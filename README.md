@@ -22,6 +22,28 @@ Some typical examples are shown below(the left column are Vis images and the rig
 
 If this dataset is helpful to you, please cite it as:
 ```
+@article{Tang2024Mask-DiFuser,
+  author={Tang, Linfeng and Li, Chunyu and Ma, Jiayi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-18},
+ }
+```
+
+```
+@article{Tang2024C2RF,
+	title={C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning}, 
+	author={Tang, Linfeng and Yan, Qinglong and Xiang, Xinyu and Fang, Leyuan and Ma, Jiayi},
+	journal={International Journal of Computer Vision}, 
+	pages={5262--5280},
+	volume={133},
+	year={2025},
+}
+```
+```
 @article{Tang2022PIAFusion,
   title={PIAFusion: A progressive infrared and visible image fusion network based on illumination aware},
   author={Tang, Linfeng and Yuan, Jiteng and Zhang, Hao and Jiang, Xingyu and Ma, Jiayi},
@@ -44,18 +66,6 @@ publisher={Elsevier}
 }
 ```
 
-```
-@article{Tang2022SuperFusion,
-  title={SuperFusion: A versatile image registration and fusion network with semantic awareness},
-  author={Tang, Linfeng and Deng, Yuxin and Ma, Yong and Huang, Jun and Ma, Jiayi},
-  journal={IEEE/CAA Journal of Automatica Sinica},
-  volume={9},
-  number={12},
-  pages={2121--2137},
-  year={2022},
-  publisher={IEEE}
-}
-```
 ```
 @article{Ma2022SwinFusion,
   title={SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer},
